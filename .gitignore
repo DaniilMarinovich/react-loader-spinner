@@ -82,7 +82,6 @@ web_modules/
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
-.parcel-cache
 
 # Next.js build output
 .next
@@ -90,7 +89,6 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
@@ -131,7 +129,6 @@ dist
 .idea
 .DS_Store
 .docusaurus
-.parcel-cache
 build
 ./docs/.docusaurus
 ./docs/.docz
